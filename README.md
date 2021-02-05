@@ -1,2 +1,7 @@
 # Mario
-A 2D Mario Game made with LWJGL 3
+
+### Info
+
+- This Game uses LWJGL 3, and is currently still in development; This is just a fun personal project I'm working on.
+
+
