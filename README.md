@@ -2,6 +2,6 @@
 
 ### Info
 
-- This Game uses LWJGL 3, and is currently still in development; This is just a fun personal project I'm working on.
+- This Game uses LWJGL 3, and is simply a "learning" project for me to do.
 
 
